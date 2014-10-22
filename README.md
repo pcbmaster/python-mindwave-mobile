@@ -26,9 +26,10 @@ mindwaveDataPointReader.start()
 dataPoint = mindwaveDataPointReader.readNextDataPoint()
 ``` 
 You're probably wondering, "pcbmaster, why should I use your fork?"
-The answer is simple
-Don't
 
+The answer is simple
+
+Don't
 
 I'm not fucking kidding don't use this
 
