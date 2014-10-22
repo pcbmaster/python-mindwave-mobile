@@ -25,3 +25,11 @@ mindwaveDataPointReader.start()
 # read one data point, data point types are specified in  MindwaveDataPoints.py'
 dataPoint = mindwaveDataPointReader.readNextDataPoint()
 ``` 
+You're probably wondering, "pcbmaster, why should I use your fork?"
+The answer is simple
+Don't
+
+
+I'm not fucking kidding don't use this
+
+It's so broken
